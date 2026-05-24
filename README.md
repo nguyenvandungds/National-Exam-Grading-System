@@ -52,6 +52,6 @@ To automate the grading process of multiple-choice exam papers and support large
 - Answer key is stored in Excel by exam code sheet
 
 # Author
-Nguyen Van Dung
-Data Science Student
+Nguyen Van Dung, 
+Data Science Student, 
 University of Da Lat Vietnam
